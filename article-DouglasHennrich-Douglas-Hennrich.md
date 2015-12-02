@@ -12,6 +12,7 @@
     Determina o acesso do usuário, ocorre após uma autenticação bem-sucedida.
 
 ---
+---
 
 ## Descreva aqui o passo-a-passo como criar um usuário administrador e um usuário comum.
 
@@ -43,9 +44,11 @@ db.runCommand({
 ```
 
 ---
+---
 
 ## Explique cada papel listado em Cluster Administration Roles.
 
+---
 ---
 
 ## Explique todas as ações de privilégio listadas em Privilege Actions.
